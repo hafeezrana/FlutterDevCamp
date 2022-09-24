@@ -1,16 +1,17 @@
 # travel_app
 
-A new Flutter project.
+**Flutter DevCamp 2022, Week 1 , Assignment #01** 
 
-## Getting Started
+>Simple UI Consists on Three Screens
+ 
+Home Screen
 
-This project is a starting point for a Flutter application.
+![TravelHome!](screenshots/screenshot1.png)
 
-A few resources to get you started if this is your first Flutter project:
+Detail Screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![DetailScreen!](screenshots/screenshot2.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Sub-Detail Screen
+
+![Sub-DetailScreen!](screenshots/screenshot3.png)
