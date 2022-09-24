@@ -10,6 +10,6 @@ Home Page
 
 Detail Page
 
-![RecipeDetail!](screenshots/screenshot2.png.png)
+![RecipeDetail!](screenshots/screenshot2.png)
 
 
